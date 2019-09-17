@@ -1,0 +1,39 @@
+h1 {
+    color: black;
+}
+
+h2 {
+	color: gray;
+}
+
+ol {
+	color: red;
+}
+
+ul {color: pink;
+}
+
+body {background-color: purple;
+}
+
+img {/* <length> values */
+width: 300px;
+width: 25em;
+}
+
+label {
+	display: block;
+}
+
+input,
+label {
+	margin: .2rem 0;
+}
+
+.preference {
+    display: flex;
+    padding-left: 5px
+}
+
+
+
